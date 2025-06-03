@@ -1,6 +1,5 @@
 === Auto Post to X ===
-Contributors: yourname
-Donate link: https://example.com/donate
+Contributors: Alpha Veda Productions
 Tags: twitter, x, social media, auto post, automation, social sharing
 Requires at least: 5.0
 Tested up to: 6.4
